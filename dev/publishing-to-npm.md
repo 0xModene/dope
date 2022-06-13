@@ -11,7 +11,8 @@ These will be needed before you can get started. Generate/grab these and copy th
 
 Go to your repo's page on Github, then navigate to `Settings > Secrets > Actions`
 
-[screenshot here]
+![repo secrets](https://user-images.githubusercontent.com/7647623/173412025-7b3f2452-e3b4-4513-a183-7d3a76374302.png)
+
 
 Put your NPM PAT from earlier into `NPM_TOKEN`. (This can be done at the `Organization secrets` level, which is useful if you want to publish multiple packages). Do the same for your Github PAT and `GH_TOKEN`.
 
